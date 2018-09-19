@@ -27,6 +27,11 @@ We will use the [slides](05-A3%20and%20GDPR.pdf) and sample code for this.
 ## Exercises
 The main focus of the exercises for this week is to be able to encrypt and decrypt data using the libraries of Java.
 
+### Exercise 0
+
+Design a system for handling signatures for new parties.
+* You can sign up for at most one party
+
 ### Exercise 1
 The first thing we will do is to look at Cesarean rotation. I am not sure it was ever used, but it is good for making text which can't be read by the named eye, but is easy to crack.
 
