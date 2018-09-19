@@ -19,18 +19,18 @@ After this week, you should be able to:
 ### What to encrypt
 
 * The General Data Protection Regulation in short from [EU*GDPR*.ORG](https://eugdpr.org/the-regulation/).
-* The regulations are being passed into Danish law (and into the laws of all the other member states). [This Danish text to explain things well too](https://itb.dk/sites/default/files/Persondataforordningen_DetSkalDuHaveStyrPaai2018.pdf)
+* The regulations are being passed into Danish law (and into the laws of all the other member states). [This Danish text to explain things well too](Persondataforordningen_DetSkalDuHaveStyrPaai2018.pdf)
 
 ### How to encrypt
-We will use the [slides](05-A3 and GDPR.pdf) and sample code for this.
+We will use the [slides](05-A3%20and%20GDPR.pdf) and sample code for this.
 
 ## Exercises
 The main focus of the exercises for this week is to be able to encrypt and decrypt data using the libraries of Java.
 
 ### Exercise 1
-The first thing we will do is to look at Cesarean rotatation. I am not sure it was ever used, but it is good for making text whihc can not be read by the named eye, but is easy to crack.
+The first thing we will do is to look at Cesarean rotation. I am not sure it was ever used, but it is good for making text which can't be read by the named eye, but is easy to crack.
 
-In the sample code, find out how many letters to rotate the hidden message. Notice, the rotator can rotate both forwards and backwards (though that is not really necessay - why?)
+In the sample code, find out how many letters to rotate the hidden message. Notice, the rotator can rotate both forwards and backwards (though that is not really necessary - why?)
 
 ### Exercise 2
 This exercise uses an "incredible dumb and stupid" password scheme, as the actual input is a number between 1000 and 9999. You must find out which one. Your attack form here is brute force (trying them all).
