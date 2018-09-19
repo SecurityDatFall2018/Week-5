@@ -31,6 +31,7 @@ The main focus of the exercises for this week is to be able to encrypt and decry
 
 Design a system for handling signatures for new parties.
 * You can sign up for at most one party
+* Signatures are binding can't be withdrawn
 
 ### Exercise 1
 The first thing we will do is to look at Cesarean rotation. I am not sure it was ever used, but it is good for making text which can't be read by the named eye, but is easy to crack.
